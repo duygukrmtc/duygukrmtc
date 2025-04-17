@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Duygu 👋  
+🎓 MSc in Bioengineering | 🧬 Specializing in Bioinformatics & Data Science  
+📍 Based in Türkiye | 🌍 Open to remote work opportunities & global collaborations  
 
-<!--
-**duygukrmtc/duygukrmtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧪 What I Do
+- 🔬 Single-cell RNA-seq analysis (Seurat, Scanpy)
+- 📊 Data visualization (ggplot2, matplotlib)
+- 🧠 Machine learning on omics data
+- ⚙️ Workflow automation (Nextflow, Snakemake)
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+**Languages**: R, Python, Bash  
+**Tools**: Seurat, Scanpy, DESeq2, AUCell, scikit-learn, Nextflow  
+**Platforms**: Linux, TRUBA HPC, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Get in Touch
+📧 [Email Me](mailto:duygukeremitci@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/duygu-keremitci)
